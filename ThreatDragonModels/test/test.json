@@ -134,6 +134,30 @@
             "target": {
               "cell": "77727c44-a676-4a23-9932-94c839d31914"
             }
+          },
+          {
+            "position": {
+              "x": 510,
+              "y": 310
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "微信啊"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "ef51409e-ea5a-4a7a-98e3-149385a87739",
+            "zIndex": 11,
+            "data": {
+              "type": "tm.Text",
+              "name": "微信啊",
+              "hasOpenThreats": false
+            }
           }
         ]
       },
